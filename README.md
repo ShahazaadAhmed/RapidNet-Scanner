@@ -2,7 +2,7 @@
 
 ## Description
 
-The **RapidNet Scanner** is a GUI-based network discovery and port‑scanning tool built using **Python**, **CustomTkinter**, **Scapy**, and **Socket**. It enables users to quickly enumerate devices on a local network, identify active hosts, and detect open ports. The interface is designed to be clean, modern, and beginner‑friendly while still offering core scanning functionality.
+The **RapidNet Scanner** is a GUI-based network discovery and port‑scanning tool I built using **Python**, **CustomTkinter**, **Scapy**, and **Socket**. It enables users to quickly enumerate devices on a local network, identify active hosts, and detect open ports. The interface is designed to be clean, modern, and user‑friendly while still offering core scanning functionality.
 
 This project demonstrates skills in:
 
